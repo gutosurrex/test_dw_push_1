@@ -30,12 +30,11 @@ slkfjesf
 soeifjsoeifj
 
 
-
-====%hide thestart====
-atividade
-==== ====
+{{anchor:start}}
 
 {{page>start}}
+
+{{anchor:qqq}}
 
 {{page>qqq}}
 
