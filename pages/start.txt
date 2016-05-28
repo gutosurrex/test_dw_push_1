@@ -1,4 +1,6 @@
-Link back to [[pobrema#start]]
+;;#
+Ir para [[pobrema#start]]
+;;#
 
   - Au
   - Biu
@@ -6,7 +8,9 @@ Link back to [[pobrema#start]]
     - efij
     - ed
 
-[[pobrema#qqq]]
+===== AAA =====
+
+===== BBB =====
 
 sem palavrão, heim?
 
